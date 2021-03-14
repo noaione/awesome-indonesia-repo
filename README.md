@@ -303,6 +303,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 - [KBBI Python](https://github.com/laymonage/kbbi-python) - Modul Python untuk mengambil entri sebuah kata/frase dalam KBBI Daring.
 - [Excel2api](https://github.com/FerdinaKusumah/excel2api) - Convert your excel data as api.
 - [Simple Face Recognition](https://github.com/FerdinaKusumah/face-recognition-webservice) - Simple face recognition with example.
+- [tesaurus-python](https://github.com/noaione/tesaurus-python) - Modul Python untuk mencari entri sebuah kata dari Tesaurus Tematis.
 - [Corona data api](https://github.com/FerdinaKusumah/corona-api) - Corona data api with realtime data.
 
 # R
